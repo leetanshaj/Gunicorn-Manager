@@ -43,4 +43,4 @@ By using signal TERM, the worker will be gracefully shutdown and it will not acc
 ## Screenshots
 
 ![Gunicorn-Manager](
-https://raw.githubusercontent.com/abhishekkrthakur/Gunicorn-Manager/master/gunicorn-manager.png)
+https://raw.githubusercontent.com/abhishekkrthakur/Gunicorn-Manager/main/gunicorn-manager.png)
